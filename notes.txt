@@ -33,3 +33,10 @@ expo install expo-location
 expo install react-native-webview
 
 yarn add axios
+
+### SOCKET.IO
+cd Backend
+yarn add socket.io
+
+cd mobile
+yarn add socket.io-client
